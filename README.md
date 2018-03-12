@@ -461,6 +461,7 @@ unprofessional behavior.
 * Gary Price
 * Geoff Harder
 * Lisa Schiff
+* Sonoe Nakasone
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
